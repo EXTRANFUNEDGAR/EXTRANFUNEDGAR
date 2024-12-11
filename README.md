@@ -91,9 +91,12 @@
 
 ----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribuciones de GitHub"/>
-</p>
+   <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+  
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/EXTRANFUNEDGAR/count.svg" />
