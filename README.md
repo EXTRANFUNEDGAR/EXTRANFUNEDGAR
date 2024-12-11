@@ -93,7 +93,7 @@
 
    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
   
-![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
+
 
 
 
