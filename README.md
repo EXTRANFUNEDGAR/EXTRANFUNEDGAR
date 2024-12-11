@@ -59,13 +59,16 @@
 
 
 
-<a href="https://github.com/EXTRANFUNEDGAR/RAHistoria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=RAHistoria&theme=tokyonight" />
-</a> 
+<div align="center">
+  <a href="https://github.com/EXTRANFUNEDGAR/RAHistoria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=RAHistoria&theme=tokyonight" />
+  </a> 
 
-<a href="https://github.com/EXTRANFUNEDGAR/FreqSaver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=FreqSaver&theme=tokyonight" />
-</a>  
+  <a href="https://github.com/EXTRANFUNEDGAR/FreqSaver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=FreqSaver&theme=tokyonight" />
+  </a>  
+</div>
+
 
 ## Estadísticas de GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
