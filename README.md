@@ -69,17 +69,16 @@
 
 ## Estadísticas de GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
-<details> 
-  <summary><b>💻 Estadísticas del Perfil de GitHub</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadísticas de GitHub de Edgar" src="https://github-readme-stats.vercel.app/api?username=EXTRANFUNEDGAR&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-  <br/>
-  &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EXTRANFUNEDGAR&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="192px"/>
-  <br/>
-  </p>
-</details>
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Estadísticas de GitHub de Edgar" src="https://github-readme-stats.vercel.app/api?username=EXTRANFUNEDGAR&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EXTRANFUNEDGAR&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="192px"/>
+</p>
+
+
 
 <br/>
 
