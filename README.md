@@ -93,7 +93,7 @@
 
  <p align="center">
   <a href="https://github.com/Deepshikhayadav">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhayadav&theme=dracula&hide_border=true" width="520" alt="deepshikhayadav"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXTRANFUNEDGAR&theme=dracula&hide_border=true" width="520" alt="deepshikhayadav"/>
   </a>
 </p>
 
