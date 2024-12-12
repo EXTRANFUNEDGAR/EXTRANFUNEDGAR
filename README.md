@@ -69,6 +69,11 @@
   </a>  
 </div>
 
+## 🌐 Mi Estación TinyGS
+¡Sigue mi estación TinyGS en vivo!
+
+<p align="center"> <a href="https://tinygs.com/station/CELE1825@863290581" target="_blank"> <img src="https://img.shields.io/badge/TinyGS-CELE1825-00bfae?style=for-the-badge&logo=signal&logoColor=white" alt="Estación TinyGS CELE1825"> </a> </p>
+
 
 ## Estadísticas de GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
