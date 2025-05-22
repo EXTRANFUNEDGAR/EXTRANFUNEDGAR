@@ -58,8 +58,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=RAHistoria&theme=tokyonight" />
   </a> 
 
-  <a href="https://github.com/EXTRANFUNEDGAR/FreqSaver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=FreqSaver&theme=tokyonight" />
+  <a href="https://github.com/EXTRANFUNEDGAR/Sentinel-WX-Alpha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=Sentinel-WX-Alpha&theme=tokyonight" />
   </a>  
 </div>
 
