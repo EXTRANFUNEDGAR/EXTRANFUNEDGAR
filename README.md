@@ -64,7 +64,7 @@
 </div>
 
 ## 🌐 Mi Estación TinyGS
-¡Sigue mi estación TinyGS en vivo!
+¡Actualmente en mantenimiento!
 
 <p align="center"> <a href="https://tinygs.com/station/CELE1825@863290581" target="_blank"> <img src="https://img.shields.io/badge/TinyGS-CELE1825-00bfae?style=for-the-badge&logo=signal&logoColor=white" alt="Estación TinyGS CELE1825"> </a> </p>
 
