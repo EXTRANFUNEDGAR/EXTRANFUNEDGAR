@@ -1,6 +1,6 @@
 ## Hola, soy Edgar Enrique Delgado Sánchez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+ingeniero+en+sistemas+computacionales;Desarrollador+y+entusiasta+de+la+tecnología" /></a>
+  <a ><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+ingeniero+en+sistemas+computacionales;Desarrollador+y+entusiasta+de+la+tecnología" /></a>
 </p>
 
 <p align="center">
