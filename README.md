@@ -44,7 +44,7 @@
 Aquí están algunos de los proyectos en los que he trabajado:
 
 - **ONI-Vault:** Una plataforma web tipo "nube personal" para gestionar archivos multimedia en una red local, desarrollada con React.
-- **ONI_Radio:** Un reproductor de música moderno para Android con soporte para listas de reproducción y reproducción en segundo plano, creado con React Native.
+- **ONI_Radio:** Un reproductor de música para Android con soporte para listas de reproducción y reproducción en segundo plano, creado con React Native.
 - **Sentinel-WX-Alpha:** Estación meteorológica IoT que recolecta y visualiza datos ambientales en tiempo real usando ESP32, Flask y MQTT.
 - **RAHistoria:** Una experiencia de Realidad Aumentada para aprender historia, desarrollada con A-Frame.
 
