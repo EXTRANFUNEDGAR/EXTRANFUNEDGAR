@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
- 
   <a href="mailto:edgar.delgado.a239@gmail.com?subject=Feedback%20Desde%20GitHub&body=Hola," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -43,22 +42,21 @@
 
 Aquí están algunos de los proyectos en los que he trabajado:
 
-- **ONI-Vault:** Una plataforma web tipo "nube personal" para gestionar archivos multimedia en una red local, desarrollada con React.
+- **ONI-Ledger:** Una aplicación web full-stack diseñada para la gestión de clientes y sus facturas.
 - **ONI_Radio:** Un reproductor de música para Android con soporte para listas de reproducción y reproducción en segundo plano, creado con React Native.
 - **Sentinel-WX-Alpha:** Estación meteorológica IoT que recolecta y visualiza datos ambientales en tiempo real usando ESP32, Flask y MQTT.
 - **RAHistoria:** Una experiencia de Realidad Aumentada para aprender historia, desarrollada con A-Frame.
 
 <div align="center">
-  <a href="https://github.com/EXTRANFUNEDGAR/ONI-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=ONI-Vault&theme=tokyonight" />
+  <a href="https://github.com/EXTRANFUNEDGAR/ONI-Ledger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=ONI-Ledger&theme=tokyonight" />
   </a>   
   <a href="https://github.com/EXTRANFUNEDGAR/ONI_Radio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=ONI_Radio&theme=tokyonight" />
   </a> 
-
   <a href="https://github.com/EXTRANFUNEDGAR/Sentinel-WX-Alpha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=Sentinel-WX-Alpha&theme=tokyonight" />
-  </a>  
+  </a> 
     <a href="https://github.com/EXTRANFUNEDGAR/RAHistoria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXTRANFUNEDGAR&repo=RAHistoria&theme=tokyonight" />
   </a> 
@@ -74,16 +72,12 @@ Soy un entusiasta de la radioafición y opero mi propia estación terrena para l
 
 ## Estadísticas de GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
-
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Estadísticas de GitHub de Edgar" src="https://github-readme-stats.vercel.app/api?username=EXTRANFUNEDGAR&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EXTRANFUNEDGAR&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="192px"/>
 </p>
-
-
 
 <br/>
 
@@ -93,18 +87,11 @@ Soy un entusiasta de la radioafición y opero mi propia estación terrena para l
 ----
 
  <p align="center">
-  <a href="https://github.com/EXTRANFUNEDGAR">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXTRANFUNEDGAR&theme=dracula&hide_border=true" width="520" alt="EXTRANFUNEDGAR"/>
-  </a>
+   <a href="https://github.com/EXTRANFUNEDGAR">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXTRANFUNEDGAR&theme=dracula&hide_border=true" width="520" alt="EXTRANFUNEDGAR"/>
+   </a>
 </p>
 
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/EXTRANFUNEDGAR/count.svg" />
-</p>
 -----
 
 ¡Gracias por visitar mi perfil!
